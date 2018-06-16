@@ -1,19 +1,12 @@
-int firstDuplicate(int[] a) {
 
-    int duplicate;
-    int lowestIndex = 0;
-
-    for (int i = 0; i < a.length; i++){
-        duplicate = a[i];
-        if (a[i] == duplicate){
-            lowestIndex = i;
-           if (lowestIndex < i){
-               lowestIndex = i;
-           }
-        }
-
-    }
-
-    return a[lowestIndex];
-
-}
+	int firstDuplicate(int[] a) {
+	       if(a.length<=1)
+               return -1;
+	       for(int i=0; i< a.length; i++){
+	              int pos= Math.abs(a[i])-1;
+	              if(a[pos]<0)
+                    return pos+1;
+	              else a[pos]= -a[pos];
+	       }
+	       return -1;
+	}
