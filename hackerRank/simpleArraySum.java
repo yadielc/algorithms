@@ -1,6 +1,7 @@
 static int simpleArraySum(int[] ar) {
         /*
          * Write your code here.
+         
          */
 
         int sum = 0;
