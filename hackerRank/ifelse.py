@@ -1,7 +1,7 @@
 #!/bin/python3
 
 '''
-Hacker Rank Challenge:
+Hacker Rank Challenge: Python If-Else
 '''
 
 N = int(input())
