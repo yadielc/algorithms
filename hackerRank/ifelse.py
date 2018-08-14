@@ -2,6 +2,11 @@
 
 '''
 Hacker Rank Challenge: Python If-Else
+
+Instructions:
+
+If N is odd print "Weird"
+
 '''
 
 N = int(input())
