@@ -8,6 +8,7 @@ Instructions:
 If N is odd print "Weird"
 If N is even and greater than 2 but less than 5 (inclusive) print "Not Weird"
 If N is even and greater than 6 but less than 20 (inclusive) print "Not Weird"
+If N is even and greater than 20 print "Weird"
 
 '''
 
