@@ -1,6 +1,8 @@
 '''
 print.py
 HackerRank Problem Solution: Print Function
+
+This program prints from 1 to N all in one line as indicated in exercise. 
 '''
 
 if __name__ == '__main__':
