@@ -1,6 +1,6 @@
 '''
 print.py
-HackerRank Problem Solution 
+HackerRank Problem Solution: Print Function
 '''
 
 if __name__ == '__main__':
