@@ -1,6 +1,7 @@
 '''
 runnerup.py
 
+Hacker Rank Challenge: Runner Up from Basic Data Types in Python Track
 '''
 if __name__ == '__main__':
     n = int(input())
