@@ -1,6 +1,7 @@
 '''
 percentage.py
 
+
 '''
 N = int(raw_input())
 dc = dict()
