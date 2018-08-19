@@ -5,10 +5,13 @@ HackerRank Problem Solution: Calculate The Percentage in Python
 
 This program calculates the average of the student's marks
 given the input.
+
 '''
+#number of students
 N = int(raw_input())
 dc = dict()
 lst1 = list()
+
 for i in range(N):
     a = raw_input()
     lst1 = a.split()
@@ -21,7 +24,9 @@ total = 0
 if name in dc:
     marks = dc[name]
     no = len(marks)
+    #calculate the sum
     for num in marks:
         total += num
+#calculate the average of the marks of the selected student
 avg = total / no
 print "%.2f" % avg
