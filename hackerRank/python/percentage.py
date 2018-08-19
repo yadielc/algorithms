@@ -1,7 +1,10 @@
 '''
 percentage.py
 
+HackerRank Problem Solution: Calculate The Percentage in Python
 
+This program calculates the average of the student's marks
+given the input.
 '''
 N = int(raw_input())
 dc = dict()
