@@ -12,6 +12,7 @@ that received the second lowest grade.
 
 # number of students
 N = int(raw_input())
+
 # create a list that will have grades
 final = list()
 for i in range(N):
