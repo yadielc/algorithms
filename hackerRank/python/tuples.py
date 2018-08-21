@@ -8,11 +8,11 @@ Given an integer, n , and n space-separated integers as input, create a tuple, ,
 
 Notes:
 1. Uses Python 2
-2. hash is a built in function in python 
+2. hash is a built in function in python
 
 '''
 if __name__ == '__main__':
     n = int(raw_input()) # get input from user
-    t = tuple(map(int, raw_input().split()))
+    t = tuple(map(int, raw_input().split())) #store the numbers in a tuple
 
 print hash(t)
