@@ -8,6 +8,7 @@ Nested Lists HackerRank Challenge In Python
 
 # number of students
 N = int(raw_input())
+# create a list that will have grades 
 final = list()
 for i in range(N):
     lst = list()
