@@ -6,6 +6,7 @@ Nested Lists HackerRank Challenge In Python
 
 '''
 
+# number of students
 N = int(raw_input())
 final = list()
 for i in range(N):
