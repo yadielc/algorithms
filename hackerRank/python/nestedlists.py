@@ -33,7 +33,7 @@ for i in range(len(final)):
 x = min(k)
 k1 = list()
 for i in range(len(k)):
-    if x != k[i]:
+    if x != k[i]: # if they are not equal, add to the list 
         k1.append(k[i])
 y = min(k1)
 
