@@ -26,7 +26,6 @@ for i in range(N):
     final.append(lst)
 
 # print final list
-# print len(final)
 k = list()
 for i in range(len(final)):
     k.append(final[i][1])
