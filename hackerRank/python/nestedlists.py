@@ -2,6 +2,9 @@
 nestedlists.py
 Nested Lists HackerRank Challenge In Python
 
+The task is to write a program that displays the second
+lowest grades that the students received, given a set of students
+However, more than 1 student can receive the second lowest grades.
 
 
 '''
