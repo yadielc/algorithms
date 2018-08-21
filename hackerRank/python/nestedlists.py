@@ -17,6 +17,7 @@ for i in range(N):
     # add name and mark the student received
     lst.append(name)
     lst.append(marks)
+    # add to separate list 
     final.append(lst)
 
 # print final
