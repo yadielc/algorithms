@@ -8,7 +8,7 @@ Given an integer, n , and n space-separated integers as input, create a tuple, ,
 
 Notes:
 1. Uses Python 2
-2. hash is a builtin function in python 
+2. hash is a built in function in python 
 
 '''
 if __name__ == '__main__':
