@@ -36,7 +36,8 @@ for i in range(len(k)):
     if x != k[i]:
         k1.append(k[i])
 y = min(k1)
-# print x
+
+# print x, the sorted list with the names of the students that obtained the second lowest grade 
 student = list()
 for i in range(len(final)):
     if y == final[i][1]:
