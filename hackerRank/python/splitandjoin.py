@@ -1,5 +1,8 @@
 '''
 splitandjoin.py
+
+Split and Join HackerRank Problem Solution
+
 '''
 def split_and_join(line):
     # write your code here
