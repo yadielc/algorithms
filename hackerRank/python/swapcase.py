@@ -1,5 +1,6 @@
 '''
 swapcase.py
+Author: Yadiel F Cabrera 
 
 sWAP cASE: HackerRank Problem Solution
 
