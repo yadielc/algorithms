@@ -1,3 +1,6 @@
+'''
+splitandjoin.py
+'''
 def split_and_join(line):
     # write your code here
     new_line = line.split(" ")
