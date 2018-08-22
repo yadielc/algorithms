@@ -3,6 +3,8 @@ splitandjoin.py
 
 Split and Join HackerRank Problem Solution
 
+Instructions:
+
 '''
 def split_and_join(line):
     # write your code here
