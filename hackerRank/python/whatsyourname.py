@@ -1,17 +1,15 @@
 
 '''
 whatsyourname.py
-
+What's Your Name: HackerRank Challenge Problem Solution
 https://www.hackerrank.com/challenges/whats-your-name/problem
 
 Instructions:
 
 Input Format
-
 The first line contains the first name, and the second line contains the last name.
 
 Output Format
-
 Print the output as mentioned above.
 
 '''
