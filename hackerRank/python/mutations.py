@@ -1,7 +1,11 @@
 '''
 mutations.py
 
-Mutations: HackerRank Problem Solution 
+Mutations: HackerRank Problem Solution
+
+Instructions:
+Read a given string, change the character at a given index and then print the modified string.
+
 '''
 def mutate_string(string, position, character):
     str = list(string)
