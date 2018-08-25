@@ -15,3 +15,10 @@ def average(array):
     average = total/len(array)
 
     return average
+
+# testing code 
+if __name__ == '__main__':
+    n = int(raw_input())
+    arr = map(int, raw_input().split())
+    result = average(arr)
+    print result
