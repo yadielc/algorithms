@@ -1,7 +1,7 @@
 '''
 introtosets.py
 
-Introduction To Sets-Python: HackerRank Problem Solution
+Introduction To Sets - Python: HackerRank Problem Solution
 
 Instructions:
 
