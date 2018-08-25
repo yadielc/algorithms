@@ -8,6 +8,7 @@ Instructions:
 Calculate the average of the elements, given a set.
 
 '''
+
 def average(array):
     total = 0
     total = sum(array)
