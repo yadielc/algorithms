@@ -5,7 +5,7 @@ Introduction To Sets: HackerRank Problem Solution
 
 Instructions:
 
-Calculate the average of the elements, given a set.
+Calculate the average of the elements, given a set. Use the sum and len functions.
 
 '''
 
@@ -16,7 +16,7 @@ def average(array):
 
     return average
 
-# testing code 
+# testing code
 if __name__ == '__main__':
     n = int(raw_input())
     arr = map(int, raw_input().split())
