@@ -5,7 +5,8 @@ Introduction To Sets: HackerRank Problem Solution
 
 Instructions:
 
-Calculate the average of the elements, given a set. Use the sum and len functions.
+Calculate the average of the elements, given a set.
+Use the sum and len functions.
 
 '''
 
