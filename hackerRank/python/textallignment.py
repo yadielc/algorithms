@@ -1,4 +1,5 @@
 '''
+https://www.hackerrank.com/challenges/text-alignment/problem
 textallignment.py
 
 Text Allignment HackerRank Problem Solution in Python
