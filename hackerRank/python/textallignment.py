@@ -1,6 +1,7 @@
 '''
 textallignment.py
 
+Text Allignment HackerRank Problem Solution in Python 
 
 '''
 #Replace all ______ with rjust, ljust or center.
