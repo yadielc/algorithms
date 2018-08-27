@@ -1,6 +1,6 @@
 '''
 https://www.hackerrank.com/challenges/text-alignment/problem
-Author: Yadiel F. Cabrera Alvarado
+Author: Yadiel F. Cabrera 
 textallignment.py
 
 Text Allignment HackerRank Problem Solution in Python
