@@ -2,6 +2,8 @@
 calendar.py
 Calendar Module: HackerRank Problem Solution
 
+Instructions:
+You are given a date. Your task is to find what the day is on that date.
 
 '''
 
