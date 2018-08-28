@@ -7,7 +7,7 @@ You are given a date. Your task is to find what the day is on that date.
 
 '''
 
-import calendar
+import calendar # import calendar module 
 
 date = raw_input().strip().split()
 
