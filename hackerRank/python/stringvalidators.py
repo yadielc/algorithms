@@ -11,7 +11,15 @@ Your task is to find out if the string  contains: alphanumeric characters,
 Review of Concepts:
 
 - any function: https://docs.python.org/3/library/functions.html#anys
-  
+  Return True if any element of the iterable is true.
+  If the iterable is empty, return False.
+
+  Equivalent to:
+  def any(iterable):
+    for element in iterable:
+        if element:
+            return True
+    return False
 
 
 '''
