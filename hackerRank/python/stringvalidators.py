@@ -10,6 +10,9 @@ Your task is to find out if the string  contains: alphanumeric characters,
 
 Review of Concepts:
 
+- any function: https://docs.python.org/3/library/functions.html#anys
+
+
 '''
 
 if __name__ == '__main__':
