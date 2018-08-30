@@ -6,7 +6,7 @@ String Validators HackerRank Problem Solution
 
 You are given a string .
 Your task is to find out if the string  contains: alphanumeric characters,
- alphabetical characters, digits, lowercase and uppercase characters.
+alphabetical characters, digits, lowercase and uppercase characters.
 
 Review of Concepts:
 
@@ -20,7 +20,7 @@ Review of Concepts:
         if element:
             return True
     return False
-    
+
 '''
 
 if __name__ == '__main__':
