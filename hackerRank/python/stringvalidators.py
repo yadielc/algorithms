@@ -10,13 +10,13 @@ if __name__ == '__main__':
     for i in s:
         if i.isalnum():
             print True
-        if i.isalpha():
+        elif i.isalpha():
             print True
-        if i.isdigit():
+        elif i.isdigit():
             print True
-        if i.islower():
+        elif i.islower():
             print True
-        if i.isupper():
+        elif i.isupper():
             print True
         else:
             print False
