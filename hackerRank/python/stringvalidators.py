@@ -21,7 +21,6 @@ Review of Concepts:
             return True
     return False
 
-
 '''
 
 if __name__ == '__main__':
