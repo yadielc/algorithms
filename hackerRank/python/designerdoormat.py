@@ -3,6 +3,7 @@ designerdoormat.py
 Designer Door Mat Hacker Rank Solution
 
 '''
+#get mat specs 
 N, M = map(int, raw_input().split())
 
 for i in xrange(1, N, 2):
