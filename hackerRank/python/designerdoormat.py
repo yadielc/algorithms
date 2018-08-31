@@ -10,7 +10,7 @@ for this.
 #get mat specs
 N, M = map(int, raw_input().split())
 
-#display
+#display mat with given specs 
 for i in xrange(1, N, 2):
     print str('.|.' * i).center(M, '-')
 print 'WELCOME'.center(M, '-')
