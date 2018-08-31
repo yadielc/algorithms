@@ -1,3 +1,6 @@
+'''
+Designer Door Mat 
+'''
 N, M = map(int, raw_input().split())
 
 for i in xrange(1, N, 2):
