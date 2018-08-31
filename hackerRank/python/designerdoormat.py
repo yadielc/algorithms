@@ -1,6 +1,7 @@
 '''
 designerdoormat.py
-Designer Door Mat Hacker Rank Solution 
+Designer Door Mat Hacker Rank Solution
+
 '''
 N, M = map(int, raw_input().split())
 
