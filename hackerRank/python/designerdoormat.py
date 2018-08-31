@@ -4,7 +4,8 @@ Designer Door Mat Hacker Rank Solution
 
 Concepts reviewed:
 x-range - Creates a list of values as you need them, using yielding. Uses generators
-for this. 
+for this.
+
 '''
 #get mat specs
 N, M = map(int, raw_input().split())
