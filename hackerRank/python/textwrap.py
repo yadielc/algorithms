@@ -2,8 +2,6 @@
 textwrap.py
 Text Wrap HackerRank Problem Solution
 
-
-
 '''
 
 def wrap(string, max_width):
