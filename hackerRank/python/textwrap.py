@@ -6,7 +6,8 @@ Instructions:
 You are given a string S  and width w.
 Your task is to wrap the string into a paragraph of width w.
 
-Concepts reviewed: 
+Concepts reviewed:
+1. textwrap.fill vs textwrap.wrap - fill returns a string.
 '''
 
 def wrap(string, max_width):
