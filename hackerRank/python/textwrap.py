@@ -1,5 +1,6 @@
 '''
 textwrap.py
+Author: Yadiel F. Cabrera 
 Text Wrap HackerRank Problem Solution
 
 Instructions:
