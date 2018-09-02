@@ -9,8 +9,6 @@ Perform integer division and print a/b.
 
 Concepts reviewed:
 exceptions - https://docs.python.org/3/tutorial/errors.html
-
-
 '''
 
 l = int(raw_input()) # gather input from the user
