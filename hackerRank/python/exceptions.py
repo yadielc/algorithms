@@ -13,7 +13,7 @@ exceptions - https://docs.python.org/3/tutorial/errors.html
 
 l = int(raw_input()) # gather input from the user
 
-# check the values and print the exceptions
+# check the values, perform the operation and print the exceptions
 for i in range(0, l):
     try:
         a, b = map(int, raw_input().split())
