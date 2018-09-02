@@ -1,7 +1,7 @@
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 '''
  exceptions.py
- Exceptions Hacker Rank problem solution
+ Exceptions Hacker Rank Problem Solution
 
 '''
 
