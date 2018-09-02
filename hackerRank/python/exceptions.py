@@ -3,6 +3,10 @@
  exceptions.py
  Exceptions Hacker Rank Problem Solution
 
+Instructions: 
+You are given two values  and .
+Perform integer division and print .
+
 '''
 
 l = int(raw_input())
