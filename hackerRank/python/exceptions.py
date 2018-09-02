@@ -1,8 +1,10 @@
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 '''
-Author Yadiel F. Cabrera 
+Author Yadiel F. Cabrera
 exceptions.py
+
 Exceptions Hacker Rank Problem Solution
+https://www.hackerrank.com/challenges/exceptions/problem
 
 Instructions:
 You are given two values a and b .
