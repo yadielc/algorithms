@@ -1,7 +1,8 @@
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 '''
-Author Yadiel F. Cabrera
 exceptions.py
+Author Yadiel F. Cabrera
+
 
 Exceptions Hacker Rank Problem Solution
 https://www.hackerrank.com/challenges/exceptions/problem
