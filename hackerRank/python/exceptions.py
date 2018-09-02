@@ -3,9 +3,9 @@
  exceptions.py
  Exceptions Hacker Rank Problem Solution
 
-Instructions: 
-You are given two values  and .
-Perform integer division and print .
+Instructions:
+You are given two values a and b .
+Perform integer division and print a/b.
 
 '''
 
