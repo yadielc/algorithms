@@ -9,8 +9,9 @@ Perform integer division and print a/b.
 
 '''
 
-l = int(raw_input())
+l = int(raw_input()) # gather input from the user
 
+# check the values and print the exceptions
 for i in range(0, l):
     try:
         a, b = map(int, raw_input().split())
