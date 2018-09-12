@@ -1,5 +1,6 @@
 '''
 listcomprehensions.py
+https://www.hackerrank.com/challenges/list-comprehensions/problem
 
 List Comprehensions HackerRank Problem Solution
 
@@ -7,7 +8,7 @@ You are given two integers x and y . You need to find out the ordered pairs ( i 
 and print them in lexicographic order.( 0 <= i <= x ) and ( 0 <= j <= y)
 
 Concepts reviewed:
-1. List comprehensions 
+1. List comprehensions
 '''
 if __name__ == '__main__':
     x = int(raw_input())
