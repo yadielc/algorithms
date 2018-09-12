@@ -5,7 +5,7 @@ if __name__ == '__main__':
     n = int(raw_input())
 
     #List comprehension
-    arr = [[X, Y, Z] for X in range(x+1) for Y in range(y+1) for Z in range(z+1) if X + Y + Z !=n]
+    list = [[X, Y, Z] for X in range(x+1) for Y in range(y+1) for Z in range(z+1) if X + Y + Z !=n]
 
     #Output the result
-    print(arr)
+    print(list)
