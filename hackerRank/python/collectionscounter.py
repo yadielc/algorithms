@@ -21,6 +21,7 @@ import collections
 
 # number of shoes
 X = int(raw_input())
+
 sizes = collections.Counter(map(int, raw_input().split()))
 
 #number of customers
