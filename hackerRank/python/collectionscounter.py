@@ -29,10 +29,11 @@ N = int(raw_input())
 #amount of money calculated
 money = 0
 
-#fill the list with user's input 
+#fill the list with user's input
 for i in range(N):
     (size, price) = map(int, raw_input().split())
 
+#calculate the amount of money made by Raghu
     if sizes[size] > 0:
         sizes[size] -= 1
         money += price
