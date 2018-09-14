@@ -1,5 +1,7 @@
 '''
 collectionscounter.py
+collections.Counter() HackerRank Problem Solution
+
 https://www.hackerrank.com/challenges/collections-counter/problem
 
 Raghu is a shoe shop owner. His shop has X number of shoes.
