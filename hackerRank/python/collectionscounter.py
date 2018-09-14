@@ -9,7 +9,9 @@ There are N number of customers who are willing to pay  amount of money only if 
 Your task is to compute how much money Raghu earned.
 
 Concepts reviewed:
-1. collections.Counter() - 
+
+1. collections.Counter() - A counter is a container that stores elements as dictionary keys,
+and their counts are stored as dictionary values.
 
 '''
 import collections
