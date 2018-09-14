@@ -26,6 +26,7 @@ sizes = collections.Counter(map(int, raw_input().split()))
 #number of customers
 N = int(raw_input())
 
+#amount of money calculated 
 money = 0
 
 for i in range(N):
