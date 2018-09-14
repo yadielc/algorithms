@@ -1,3 +1,6 @@
+'''
+
+'''
 import collections
 
 X = int(raw_input())
