@@ -9,7 +9,7 @@ There are N number of customers who are willing to pay  amount of money only if 
 Your task is to compute how much money Raghu earned.
 
 Concepts reviewed:
-1. 
+1. collections.Counter() - 
 
 '''
 import collections
