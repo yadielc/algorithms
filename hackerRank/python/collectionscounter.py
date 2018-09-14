@@ -26,14 +26,14 @@ sizes = collections.Counter(map(int, raw_input().split()))
 #number of customers
 N = int(raw_input())
 
-#amount of money calculated
+#amount of money earned by Raghu
 money = 0
 
 #fill the list with user's input
 for i in range(N):
     (size, price) = map(int, raw_input().split())
 
-#calculate the amount of money made by Raghu
+#calculate the total amount of money made by Raghu
     if sizes[size] > 0:
         sizes[size] -= 1
         money += price
