@@ -10,6 +10,7 @@ You pick the stamps one by one from a stack of N country stamps.
 Concepts reviewed:
 1. sets
 2. set.add()
+
 '''
 
 N = int(raw_input())
