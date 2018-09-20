@@ -7,6 +7,9 @@ Apply your knowledge of the .add() operation to help your friend Rupal.
 Rupal has a huge collection of country stamps. She decided to count the total number of distinct country stamps in her collection. She asked for your help.
 You pick the stamps one by one from a stack of N country stamps.
 
+Concepts reviewed:
+1. sets
+2. set.add()
 '''
 
 N = int(raw_input())
